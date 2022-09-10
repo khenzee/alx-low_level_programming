@@ -3,7 +3,7 @@
  * main - print the string in the puts function
  * return: 0
  * discription: Use the function puts
- * print "Programming is like building a multilingual puzzle, followed by a new line.
+ * print "Programming is like building a multilingual puzzle
  */
 int main(void)
 {
