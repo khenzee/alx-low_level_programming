@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main-use puts
+ * main - print the string in the puts function
  * return: 0
- * discription-Write a C program that prints exactly Programming is like building a multilingual puzzle, followed by a new line.
+ * discription: Write a C program that prints exactly Programming is like building a multilingual puzzle, followed by a new line.
  */
 int main(void)
 {
