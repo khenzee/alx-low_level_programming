@@ -1,8 +1,9 @@
 #include<stdio.h>
 /**
  * main - you should produce the exact same output as in the example
- * Description: Write a C program "ithat prints the size of various
- * types on the computer it is compiled and run on
+ *
+ * Description: Write a C program that prints the size of various
+ * the program prints "computer it is compiled and run on
  * Return : 0
  */
 int main(void)
