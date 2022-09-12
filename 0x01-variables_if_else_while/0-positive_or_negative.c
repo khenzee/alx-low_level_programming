@@ -2,6 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 
+/**
+ * main - ggnggjhbnmk,
+ * Description: dytdlkytdkytdhytcyhc,h
+ * this progam prints "vmhkjhjhy
+ * Return: 0
+ */
+
 /* more headers goes there */
 /* betty style doc for function main goes there */
 int main(void)
@@ -21,7 +28,7 @@ int main(void)
 	else if (n == 0)
 	{
 		printf("%i is zero\n", n);
-	}	
+	}
 	else if (n < 0)
 	{
 		printf("%i is negative\n", n);
