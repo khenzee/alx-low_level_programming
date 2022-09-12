@@ -15,15 +15,15 @@ int main(void)
 
 	if (n > 0)
 	{
-		n = "is positive"
+		n = "is positive";
 	}
 	if (n = 0)
 	{
-		n = "is zero"
+		n = "is zero";
 	}	
 	if (n < 0)
 	{
-		n = "is negative"
+		n = "is negative";
 	}
 	return (0);
 }
