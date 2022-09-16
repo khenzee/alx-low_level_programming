@@ -1,10 +1,8 @@
 #include "main.h"
-
 /**
  * print_numbers - print digit character
  * Return: void
  */
-
 void print_numbers(void)
 {
 	int i;
