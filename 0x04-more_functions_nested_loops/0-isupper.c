@@ -1,14 +1,13 @@
-#include<stdio.h>
-#include<ctype.h>
+#include "main.h"
 /**
- * main - check the code
- * Return: 1
- * Return: 0
+ * _isupper - checks if alphabet character is uppercase
+ * @c: function argument i.e input parameter
+ * Return: equals to 1 if alphabet character is uppercase otherwise 0;
  */
-int main(void)
+
+int _isupper(int c)
 {
-	char c;
-	if (isupper(c))
+	if (c >= 'A' && c <= 'Z')
 	{
 		return (1);
 	}
